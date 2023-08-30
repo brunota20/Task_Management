@@ -27,10 +27,7 @@ The Task Manager is a simple console-based application written in C++ that allow
 ## Dependencies
 
 - This project uses C++ Standard Library components for managing tasks and user interactions.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+ requests.
 
 ## License
 
